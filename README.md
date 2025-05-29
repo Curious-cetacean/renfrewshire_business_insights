@@ -6,4 +6,4 @@ under the Open Government Licence as below
 
 "The dataset is provided under Open Government Licence (OGL) for download and use. You are free to copy, publish, distribute and transmit the information as long as you acknowledge the source as coming from Improvement Service under OGL."
 
-The shapefiles will need to be downloaded to the data directiory if the Jupyter Notebooks want to be run on local machines which requires registering a free account.
+The data will need to be downloaded by registering for free with the Improvement Service. The shapesfiles need to be placed in the data directiory if you want to run the Jupyter Notebook(s) on local machines.
