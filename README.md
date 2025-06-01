@@ -7,3 +7,5 @@ under the Open Government Licence as below
 "The dataset is provided under Open Government Licence (OGL) for download and use. You are free to copy, publish, distribute and transmit the information as long as you acknowledge the source as coming from Improvement Service under OGL."
 
 The data will need to be downloaded by registering for free with the Improvement Service. The shapesfiles need to be placed in the data directiory if you want to run the Jupyter Notebook(s) on local machines.
+
+The Yelp review data in this analysis is simulated using a mock dataset to demonstrate integration and enrichment logic. This is to maintain the low cost of the project. In a production setting, this would be populated via the Yelp Fusion API or a licensed source.
