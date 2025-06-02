@@ -1,5 +1,5 @@
 # renfrewshire_business_insights
-An analysis using Python and SQL of local Renfrewshire businesses.
+An analysis using Python and SQL of local Scottish businesses.
 
 The local authority boundaries were downloaded from the Spatial hub at this link: https://data.spatialhub.scot/dataset/local_authority_boundaries-is/resource/d24c5735-0f1c-4819-a6bd-dbfeb93bd8e4
 under the Open Government Licence as below
@@ -12,3 +12,6 @@ The Yelp review data in this analysis is simulated using a mock dataset to demon
 
 An interactive map of Renfrewhsire business insights. Information is accurate as of 02/06/2025.
 [View Map](https://curious-cetacean.github.io/renfrewshire_business_insights/renfrewshire_hygiene_ratings.html)
+
+An interactive map of the Highlands business insights. Information is accurate as of 02/06/2025.
+[View Map](https://curious-cetacean.github.io/renfrewshire_business_insights/highland_hygiene_ratings.html)
