@@ -10,5 +10,4 @@ The data will need to be downloaded by registering for free with the Improvement
 
 The Yelp review data in this analysis is simulated using a mock dataset to demonstrate integration and enrichment logic. This is to maintain the low cost of the project. In a production setting, this would be populated via the Yelp Fusion API or a licensed source.
 
-A map of the hygiene ratings in the Refrewshire area:
-[https://curious-cetacean.github.io/renfrewshire_business_insights/renfrewshire_hygiene_ratings.html](https://curious-cetacean.github.io/renfrewshire_business_insights/)
+[View Map](https://curious-cetacean.github.io/renfrewshire_business_insights/renfrewshire_hygiene_ratings.html)
