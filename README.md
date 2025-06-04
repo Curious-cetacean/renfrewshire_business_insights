@@ -17,4 +17,4 @@ An interactive map of the Highlands business insights. Information is accurate a
 [View Map](https://curious-cetacean.github.io/renfrewshire_business_insights/highland_hygiene_ratings.html)
 
 The HTML file for an interactive map for all of Scotland can be found at this link (file is about 60 MB). The information contained within the map is accurate as of 02/06/2025
-[Visit Link](https://drive.google.com/drive/folders/1vVfgzf7IdkJSwNr2jYSGiA0Jy9Al78na?usp=sharing).
+[Visit Link](https://renfrewshire-business-insights.netlify.app/scotland_map.html).
