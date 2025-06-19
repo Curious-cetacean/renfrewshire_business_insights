@@ -20,4 +20,4 @@ The HTML file for an interactive map for all of Scotland can be found at this li
 [Visit Link](https://renfrewshire-business-insights.netlify.app/scotland_map.html).
 
 A comparable interactive dashboard was built using Tableau Public to explore hygiene ratings across business types and authorities in Renfrewshire. It contains interactive filtering for local authority areas.
-[View the dashboard on Tableau Public](https://public.tableau.com/views/your_dashboard_name_here](https://public.tableau.com/app/profile/conor.davidson/viz/renfrewshire_business_insights/ScottishBusinessHygieneInsights?publish=yes)
+[View the dashboard on Tableau Public »](https://public.tableau.com/views/your_dashboard_name_here](https://public.tableau.com/app/profile/conor.davidson/viz/renfrewshire_business_insights/ScottishBusinessHygieneInsights?publish=yes)
